@@ -22,3 +22,6 @@ https://youtu.be/DNSRmeIvEeE
 
 # Framework/Toos
 Yahoo Finance, pandas, concurrent.futures, matplotlib
+
+# Contributor
+Jingyi Fang, Jacky Xu, Esha Kumar
